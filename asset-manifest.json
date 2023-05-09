@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hbt-tkr-react/static/css/main.84670eeb.css",
+    "main.js": "/hbt-tkr-react/static/js/main.ea25fc40.js",
+    "index.html": "/hbt-tkr-react/index.html",
+    "main.84670eeb.css.map": "/hbt-tkr-react/static/css/main.84670eeb.css.map",
+    "main.ea25fc40.js.map": "/hbt-tkr-react/static/js/main.ea25fc40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84670eeb.css",
+    "static/js/main.ea25fc40.js"
+  ]
+}
